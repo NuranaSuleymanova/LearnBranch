@@ -2,3 +2,21 @@ h1{
     color: red;
 }
 
+
+
+.box1 
+
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+
+.box2
+
+{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+}
